@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588106507 source:d:\programare\univer\b-trees\main.cpp
+	<iostream>
+	"BTree.h"
+
+1588092805 d:\programare\univer\b-trees\include\btree.h
+	"Node.h"
+
+1588106212 d:\programare\univer\b-trees\include\node.h
+	<iostream>
+
+1588105980 source:d:\programare\univer\b-trees\src\btree.cpp
+	"BTree.h"
+
+1588106187 source:d:\programare\univer\b-trees\src\node.cpp
+	"Node.h"
+
